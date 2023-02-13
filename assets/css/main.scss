@@ -1,0 +1,56 @@
+--- 
+# Only the main Sass file needs front matter (the dashes are enough) 
+--- 
+
+
+// https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
+$sans-serif: 'GowunDodum-Regular'; //'Cafe24Oneprettynight'; //'MaruBuri-Regular';  //'Noto Sans KR';
+$monospace: 'Ubuntu Mono';
+$type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
+
+@charset "utf-8";
+@import "minimal-mistakes/skins/dirt"; // skin
+@import "minimal-mistakes/skins/mint"; // skin
+@import "minimal-mistakes";
+
+// https://github.com/mmistakes/minimal-mistakes/issues/1219
+html {
+  font-size: 12px; // change to whatever
+  
+  @include breakpoint($medium) {
+    font-size: 14px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px; // change to whatever
+  }
+}
+
+.highlight {
+  font-family: $monospace;
+  font-size: $type-size-4-5;
+}
+
+.language-plaintext {
+  font-family: $monospace;
+  font-size: $type-size-5;
+  background: #ffdd75;
+}
+
+
+@font-face {
+    font-family: 'GowunDodum-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
