@@ -6,7 +6,7 @@ classes: wide
 ---
 
 ## Profile
-<center><img src="/assets/img/me.jpg" width="30%" height="30%" style="
+<center><img src="/assets/images/me.jpg" width="30%" height="30%" style="
 border: 1px solid #cab6de;
 border-radius: 50%;
 padding: 5px;
