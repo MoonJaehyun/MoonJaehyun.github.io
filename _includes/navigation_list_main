@@ -10,7 +10,7 @@
            🍑 <span>TOTAL POSTS : <span> {{sum}} <span>posts 🍑
       </li>
       <li>
-        <span class="nav__sub-title"; style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Paper Review</style></span>
+        <span class="nav__sub-title"; style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Code</style></span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "paperReview" %}
@@ -25,7 +25,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ML/DL</style></span>
+        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Shcool ISE</style></span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CNN" %}
