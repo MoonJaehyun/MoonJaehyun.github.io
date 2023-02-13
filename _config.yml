@@ -115,7 +115,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MoonJaehyun"
-      - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/m._.jaehyun/"
 
