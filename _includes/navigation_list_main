@@ -28,8 +28,8 @@
         <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ise_starterbook</style></span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "CNN" %}
-                        <li><a href="/categories/CNN" class="" style="font-size:1.5em;">DL Analysis</style><style="">({{category[1].size}})</style></a></li>
+                    {% if category[0] == "isestarterbook" %}
+                        <li><a href="/categories/isestarterbook" class="" style="font-size:1.5em;">Ise Starterbook</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
