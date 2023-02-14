@@ -25,7 +25,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ise_starterbook</style></span>
+        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ISE</style></span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "isestarterbook" %}
