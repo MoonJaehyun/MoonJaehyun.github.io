@@ -13,8 +13,8 @@
         <span class="nav__sub-title"; style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Code</style></span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "paperReview" %}
-                        <li><a href="/categories/paperReview" class="" style="font-size:1.5em;">Paper Review</style> <style="">({{category[1].size}})</style></a></li>
+                    {% if category[0] == "schoolassignment" %}
+                        <li><a href="/categories/schoolassignment" class="" style="font-size:1.5em;">SchoolAssignment</style> <style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -25,7 +25,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Shcool ISE</style></span>
+        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ise_starterbook</style></span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CNN" %}
