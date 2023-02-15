@@ -124,3 +124,9 @@ Microsoft 365 앱 설치.
 압축 다루는 프로그램.
             
 윈도우 기본 압축은 느림. 알집 같은 경우엔 딸려오는 프로그램들이 시스템을 많이 먹음.
+
+sns_instagram : m._.jaehyun 
+
+(안되거나 질문 있을 시 디엠으로 부탁드려요. 🙏🙏🙏🙏🙏)
+
+[](https://www.instagram.com/m._.jaehyun/)
