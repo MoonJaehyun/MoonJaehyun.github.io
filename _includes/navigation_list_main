@@ -7,7 +7,7 @@
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
   <ul class="nav__items" id="category_tag_menu">
       <li>
-           🍑 <span>TOTAL POSTS : <span> {{sum}} <span>posts 🍑
+           🌜 <span>TOTAL POSTS : <span> {{sum}} <span>posts 🌜
       </li>
       <li>
         <span class="nav__sub-title"; style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Code</style></span>
