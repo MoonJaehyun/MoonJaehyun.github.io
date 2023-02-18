@@ -1,7 +1,8 @@
 ---
 title:  "[Windows Setting] 윈도우 세팅 및 프로그램 설치."
 excerpt: "Windows"
-
+toc : true
+toc_sticky: true
 categories:
   - isestarterbook
 tags: [windows, setting]
