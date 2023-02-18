@@ -60,15 +60,7 @@
                         <li><a href="/categories/LinearAlgebra" class="" style="font-size:1.5em;">Linear Algebra</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Blog DEV</style></span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Blog" %}
-                        <li><a href="/categories/Blog" class="" style="font-size:1.5em;">Jekyll GIT-blog </style> <style="">({{category[1].size}})</style></a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>     
+            </ul>   
         <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ETC</style></span>
         
             <ul>
