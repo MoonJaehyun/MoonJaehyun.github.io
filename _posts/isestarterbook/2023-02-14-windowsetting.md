@@ -16,8 +16,7 @@ classes: wide
 sns_instagram : m._.jaehyun 
 
 (안되거나 질문 있을 시 디엠으로 부탁드려요. 🙏🙏🙏🙏🙏)
-
-[](https://www.instagram.com/m._.jaehyun/)
+(https://www.instagram.com/m._.jaehyun/)
 
  무엇보다도 처음 컴퓨터 시작할 때 계정 명 영문으로 만드는 거 추천. 
 
@@ -129,5 +128,4 @@ Microsoft 365 앱 설치.
 sns_instagram : m._.jaehyun 
 
 (안되거나 질문 있을 시 디엠으로 부탁드려요. 🙏🙏🙏🙏🙏)
-
-[](https://www.instagram.com/m._.jaehyun/)
+(https://www.instagram.com/m._.jaehyun/)
