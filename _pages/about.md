@@ -18,7 +18,7 @@ padding: 5px;
 
 * NAME : Jaehyun, Moon
 * MAJOR : Intelligent System Engineering  
-    (Artificial Intelligence Enginnering)
+    (Artificial Intelligence Engineering)
 
 ## Career & Activities
  - Student President of the Department of Intelligent Systems Engineering
