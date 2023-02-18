@@ -1,6 +1,6 @@
 ---
 title:  "[Windows Setting] 윈도우 세팅 및 프로그램 설치."
-excerpt: "Windows"
+excerpt: "Windows Setting"
 toc : true
 toc_sticky: true
 categories:
