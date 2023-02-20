@@ -7,7 +7,7 @@
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
   <ul class="nav__items" id="category_tag_menu">
       <li>
-           🍑 <span>TOTAL POSTS : <span> {{sum}} <span>posts 🍑
+           🌜 <span>TOTAL POSTS : <span> {{sum}} <span>posts 🌜
       </li>
       <li>
         <span class="nav__sub-title"; style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Code</style></span>
@@ -29,7 +29,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "isestarterbook" %}
-                        <li><a href="/categories/isestarterbook" class="" style="font-size:1.5em;">Ise Starterbook</style><style="">({{category[1].size}})</style></a></li>
+                        <li><a href="/categories/isestarterbook" class="" style="font-size:1.5em;">지능형/인공지능</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -60,15 +60,7 @@
                         <li><a href="/categories/LinearAlgebra" class="" style="font-size:1.5em;">Linear Algebra</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">Blog DEV</style></span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Blog" %}
-                        <li><a href="/categories/Blog" class="" style="font-size:1.5em;">Jekyll GIT-blog </style> <style="">({{category[1].size}})</style></a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>     
+            </ul>   
         <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ETC</style></span>
         
             <ul>
