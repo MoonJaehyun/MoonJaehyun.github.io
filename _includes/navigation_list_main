@@ -29,7 +29,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "aiestarterbook" %}
-                        <li><a href="/categories/aiestarterbook" class="" style="font-size:1.5em;">\인공지능공학과</style><style="">({{category[1].size}})</style></a></li>
+                        <li><a href="/categories/aiestarterbook" class="" style="font-size:1.5em;">인공지능공학과</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
