@@ -28,8 +28,8 @@
         <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">AIE</style></span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "isestarterbook" %}
-                        <li><a href="/categories/isestarterbook" class="" style="font-size:1.5em;">지능형/인공지능</style><style="">({{category[1].size}})</style></a></li>
+                    {% if category[0] == "aiestarterbook" %}
+                        <li><a href="/categories/aiestarterbook" class="" style="font-size:1.5em;">지능형/인공지능</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
