@@ -1,5 +1,5 @@
 ---
-title: "AIEStarterbook"
+title: "AIE-Starterbook"
 layout: archive
 permalink: categories/aiestarterbook
 author_profile: true
