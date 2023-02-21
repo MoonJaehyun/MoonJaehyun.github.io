@@ -4,7 +4,7 @@ excerpt: "IDE Setting"
 toc : true
 toc_sticky: true
 categories:
-  - isestarterbook
+  - aiestarterbook
 tags: [VsCode, setting]
 
 last_modified_at: 2023-02-20T08:06:00-05:00

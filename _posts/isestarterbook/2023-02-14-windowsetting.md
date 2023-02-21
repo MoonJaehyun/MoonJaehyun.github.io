@@ -4,7 +4,7 @@ excerpt: "Windows Setting"
 toc : true
 toc_sticky: true
 categories:
-  - isestarterbook
+  - aiestarterbook
 tags: [windows, setting]
 
 last_modified_at: 2023-02-14T08:06:00-05:00
