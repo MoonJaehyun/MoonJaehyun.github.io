@@ -1,5 +1,5 @@
 ---
-title: "IseStarterbook"
+title: "ISEStarterbook"
 layout: archive
 permalink: categories/isestarterbook
 author_profile: true
