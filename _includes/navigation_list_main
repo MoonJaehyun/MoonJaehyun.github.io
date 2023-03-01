@@ -61,19 +61,19 @@
                     {% endif %}
                 {% endfor %}
             </ul>   
-        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">ETC</style></span>
+        <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">기타</style></span>
         
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "etc" %}
-                        <li><a href="/categories/etc" class="" style="font-size:1.5em;">etc </style> <style="">({{category[1].size}})</style></a></li>
+                        <li><a href="/categories/etc" class="" style="font-size:1.5em;">etc</style> <style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>          
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "etc" %}
-                        <li><a href="/categories/etc" class="" style="font-size:1.5em;">etc </style> <style="">({{category[1].size}})</style></a></li>
+                        <li><a href="/categories/past" class="" style="font-size:1.5em;">past</style> <style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>    
