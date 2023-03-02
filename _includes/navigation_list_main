@@ -62,7 +62,6 @@
                 {% endfor %}
             </ul>   
         <span class="nav__sub-title" style="font-family:'MaruBuri-Regular'; font-size:1.2em;">기타</style></span>
-        
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "etc" %}
