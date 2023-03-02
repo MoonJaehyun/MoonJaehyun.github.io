@@ -72,7 +72,7 @@
             </ul>          
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "etc" %}
+                    {% if category[0] == "past" %}
                         <li><a href="/categories/past" class="" style="font-size:1.5em;">past</style> <style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
