@@ -20,8 +20,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "code" %}
-                        <li><a href="/categories/code" class="" style="font-size:1.5em;">Code Implementation </style><style="">({{category[1].size}})</style></a></li>
+                    {% if category[0] == "flutter" %}
+                        <li><a href="/categories/code" class="" style="font-size:1.5em;">Flutter</style><style="">({{category[1].size}})</style></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
